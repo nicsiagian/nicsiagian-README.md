@@ -5,7 +5,8 @@ I'm an aspiring **Data Analyst** who loves problem solving with numbers.
 Here are some of my projects:
 
 ### Stroke Risk Analysis
-[Code]
+[Code] https://github.com/nicsiagian/Stroke-Risk-Analysis/blob/main/Stroke-analysis.ipynb
+
 [Full Analysis] https://docs.google.com/presentation/d/1j9HO3C1UKhs5kQ2kwkwdWUi7iU0MVgdWhGSGsOGqqdg/edit?usp=sharing
 
 ### Cyclistic Bike Share Analysis
